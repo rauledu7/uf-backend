@@ -1,0 +1,115 @@
+{
+  "name": "ultimatefitness-bc",
+  "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "node ace serve --watch",
+    "build": "node ace build --production --ignore-ts-errors",
+    "start": "node server.js",
+    "lint": "eslint . --ext=.ts",
+    "format": "prettier --write .",
+    "test": "node ace test --watch"
+  },
+  "eslintConfig": {
+    "extends": [
+      "plugin:adonis/typescriptApp",
+      "prettier"
+    ],
+    "plugins": [
+      "prettier"
+    ],
+    "rules": {
+      "prettier/prettier": [
+        "error"
+      ],
+      "comma-dangle": [
+        "error",
+        "never"
+      ],
+      "object-shorthand": [
+        "error",
+        "always"
+      ],
+      "camelcase": [
+        "off"
+      ],
+      "@typescript-eslint/naming-convention": [
+        "off"
+      ],
+      "eqeqeq": [
+        "error",
+        "always"
+      ]
+    }
+  },
+  "eslintIgnore": [
+    "build"
+  ],
+  "prettier": {
+    "trailingComma": "none",
+    "semi": false,
+    "singleQuote": true,
+    "useTabs": false,
+    "quoteProps": "as-needed",
+    "bracketSpacing": true,
+    "arrowParens": "avoid",
+    "printWidth": 120,
+    "bracketSameLine": true,
+    "tabWidth": 2,
+    "endOfLine": "lf",
+    "proseWrap": "never",
+    "singleAttributePerLine": false
+  },
+  "devDependencies": {
+    "@adonisjs/assembler": "^5.8.1",
+    "@japa/preset-adonis": "^1.1.0",
+    "@japa/runner": "^2.0.9",
+    "@types/wordpress-hash-node": "^1.0.0",
+    "adonis-preset-ts": "^2.1.0",
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-adonis": "^2.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "pino-pretty": "^9.0.1",
+    "prettier": "^2.7.1",
+    "typescript": "~4.6",
+    "youch": "^3.2.0",
+    "youch-terminal": "^2.1.4"
+  },
+  "dependencies": {
+    "@adonisjs/auth": "^8.2.3",
+    "@adonisjs/core": "^5.8.6",
+    "@adonisjs/lucid": "^18.1.0",
+    "@adonisjs/mail": "^8.1.2",
+    "@adonisjs/redis": "^7.3.2",
+    "@adonisjs/repl": "^3.1.11",
+    "@adonisjs/view": "^6.2.0",
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
+    "@mailchimp/mailchimp_transactional": "^1.0.59",
+    "@prismicio/client": "^6.6.4",
+    "@prismicio/helpers": "^2.3.3",
+    "axios": "^0.27.2",
+    "bcrypt": "^5.1.0",
+    "google-auth-library": "^9.6.3",
+    "googleapis": "^133.0.0",
+    "luxon": "^3.0.1",
+    "mercadopago": "^1.5.17",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.45",
+    "node-fetch": "^2.6.1",
+    "pg": "^8.7.3",
+    "phc-argon2": "^1.1.4",
+    "phpass": "^0.1.1",
+    "proxy-addr": "^2.0.7",
+    "reflect-metadata": "^0.1.13",
+    "source-map-support": "^0.5.21",
+    "strip-tags": "^0.1.1",
+    "transbank-sdk": "^4.0.0",
+    "wordpress-hash-node": "^1.0.0",
+    "xlsx": "^0.18.5",
+    "xmlbuilder": "^15.1.1"
+  }
+}

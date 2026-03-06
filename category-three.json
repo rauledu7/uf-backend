@@ -1,0 +1,415 @@
+{
+  "categoryThree": [
+    {
+      "name": "Trotadoras",
+      "path": "/trotadoras/",
+      "entityId": 24,
+      "children": [
+        {
+          "name": "Trotadoras Curvas",
+          "path": "/trotadoras/trotadoras-curvas/",
+          "entityId": 36,
+          "children": []
+        },
+        {
+          "name": "Trotadoras Eléctricas",
+          "path": "/trotadoras/trotadoras-electricas/",
+          "entityId": 37,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Spinning",
+      "path": "/spinning/",
+      "entityId": 25,
+      "children": []
+    },
+    {
+      "name": "Estáticas y Elípticas",
+      "path": "/estaticas-y-elipticas/",
+      "entityId": 129,
+      "children": [
+        {
+          "name": "Estáticas",
+          "path": "/estaticas-y-elipticas/estaticas/",
+          "entityId": 132,
+          "children": []
+        },
+        {
+          "name": "Elípticas",
+          "path": "/estaticas-y-elipticas/elipticas/",
+          "entityId": 138,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Remadoras",
+      "path": "/remadoras/",
+      "entityId": 26,
+      "children": [
+        {
+          "name": "Aire",
+          "path": "/remadoras/aire/",
+          "entityId": 135,
+          "children": []
+        },
+        {
+          "name": "Magnética",
+          "path": "/remadoras/magnetica/",
+          "entityId": 133,
+          "children": []
+        },
+        {
+          "name": "Agua",
+          "path": "/remadoras/agua/",
+          "entityId": 134,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Entrenamiento",
+      "path": "/entrenamiento/",
+      "entityId": 28,
+      "children": [
+        {
+          "name": "Home Gym",
+          "path": "/entrenamiento/home-gym/",
+          "entityId": 45,
+          "children": [
+            {
+              "name": "Bancas",
+              "path": "/entrenamiento/home-gym/bancas/",
+              "entityId": 46
+            },
+            {
+              "name": "Home Gym",
+              "path": "/entrenamiento/home-gym-y-racks/home-gym/",
+              "entityId": 47
+            }
+          ]
+        },
+        {
+          "name": "Racks",
+          "path": "/entrenamiento/racks/",
+          "entityId": 48,
+          "children": [
+            {
+              "name": "Racks Accesorios",
+              "path": "/entrenamiento/racks/racks-accesorios/",
+              "entityId": 50
+            },
+            {
+              "name": "Squat Rack",
+              "path": "/entrenamiento/racks/squat-rack/",
+              "entityId": 51
+            },
+            {
+              "name": "Power Rack",
+              "path": "/entrenamiento/racks/power-rack/",
+              "entityId": 49
+            }
+          ]
+        },
+        {
+          "name": "Mancuernas",
+          "path": "/entrenamiento/mancuernas/",
+          "entityId": 53,
+          "children": [
+            {
+              "name": "Mancuernas Neopreno y Cromadas",
+              "path": "/entrenamiento/mancuernas/mancuernas-neopreno-y-cromadas/",
+              "entityId": 55
+            },
+            {
+              "name": "Set de Mancuernas",
+              "path": "/entrenamiento/mancuernas/set-de-mancuernas/",
+              "entityId": 56
+            },
+            {
+              "name": "Mancuernas Hexagonales",
+              "path": "/entrenamiento/mancuernas/mancuernas-hexagonales/",
+              "entityId": 54
+            }
+          ]
+        },
+        {
+          "name": "Abdominales",
+          "path": "/entrenamiento/abdominales/",
+          "entityId": 147,
+          "children": []
+        },
+        {
+          "name": "Barras y Discos",
+          "path": "/entrenamiento/barras-y-discos/",
+          "entityId": 52,
+          "children": [
+            {
+              "name": "Barras",
+              "path": "/entrenamiento/barras-y-discos/barras/",
+              "entityId": 219
+            },
+            {
+              "name": "Discos",
+              "path": "/entrenamiento/barras-y-discos/discos/",
+              "entityId": 222
+            }
+          ]
+        },
+        {
+          "name": "Kettlebell y Pesas Rusas",
+          "path": "/entrenamiento/kettlebell-y-pesas-rusas/",
+          "entityId": 57,
+          "children": []
+        },
+        {
+          "name": "Yoga y Pilates",
+          "path": "/entrenamiento/yoga-y-pilates/",
+          "entityId": 76,
+          "children": [
+            {
+              "name": "Accesorios Yoga y Pilates",
+              "path": "/entrenamiento/yoga-y-pilates/accesorios-yoga-y-pilates/",
+              "entityId": 77
+            },
+            {
+              "name": "Balones de Pilates",
+              "path": "/entrenamiento/yoga-y-pilates/balones-de-pilates/",
+              "entityId": 80
+            },
+            {
+              "name": "Bolsos Mat de Yoga",
+              "path": "/entrenamiento/yoga-y-pilates/bolsos-mat-de-yoga/",
+              "entityId": 82
+            },
+            {
+              "name": "Columpios de Yoga",
+              "path": "/entrenamiento/yoga-y-pilates/columpios-de-yoga/",
+              "entityId": 81
+            },
+            {
+              "name": "Ladrillos",
+              "path": "/entrenamiento/yoga-y-pilates/ladrillos/",
+              "entityId": 84
+            },
+            {
+              "name": "Mats de Yoga",
+              "path": "/entrenamiento/yoga-y-pilates/mats-de-yoga/",
+              "entityId": 83
+            }
+          ]
+        },
+        {
+          "name": "Boxeo y Combate",
+          "path": "/entrenamiento/boxeo-y-combate/",
+          "entityId": 85,
+          "children": [
+            {
+              "name": "Guantes, Cascos y Protecciones",
+              "path": "/entrenamiento/boxeo-y-combate/guantes-cascos-y-protecciones/",
+              "entityId": 86
+            },
+            {
+              "name": "Sacos, Peras y Focos",
+              "path": "/entrenamiento/boxeo-y-combate/sacos-peras-y-focos/",
+              "entityId": 87
+            }
+          ]
+        },
+        {
+          "name": "Recuperación y Masajes",
+          "path": "/entrenamiento/recuperacion-y-masajes/",
+          "entityId": 88,
+          "children": [
+            {
+              "name": "Foam Rollers",
+              "path": "/entrenamiento/recuperacion-y-masajes/foam-rollers/",
+              "entityId": 89
+            },
+            {
+              "name": "Masajeadores",
+              "path": "/entrenamiento/recuperacion-y-masajes/masajeadores/",
+              "entityId": 90
+            },
+            {
+              "name": "Pistolas Masajeadoras",
+              "path": "/entrenamiento/recuperacion-y-masajes/pistolas-masajeadoras/",
+              "entityId": 91
+            },
+            {
+              "name": "Presoterapia",
+              "path": "/entrenamiento/recuperacion-y-masajes/presoterapia/",
+              "entityId": 92
+            }
+          ]
+        },
+        {
+          "name": "Suplementos",
+          "path": "/entrenamiento/suplementos/",
+          "entityId": 100,
+          "children": [
+            {
+              "name": "Barras de Proteina",
+              "path": "/entrenamiento/suplementos/barras-de-proteina/",
+              "entityId": 101
+            },
+            {
+              "name": "Electrolitos",
+              "path": "/entrenamiento/suplementos/electrolitos/",
+              "entityId": 237
+            },
+            {
+              "name": "Geles",
+              "path": "/entrenamiento/suplementos/geles/",
+              "entityId": 236
+            },
+            {
+              "name": "Proteína",
+              "path": "/entrenamiento/suplementos/proteina/",
+              "entityId": 102
+            },
+            {
+              "name": "Snacks",
+              "path": "/entrenamiento/suplementos/snacks/",
+              "entityId": 103
+            },
+            {
+              "name": "Vitaminas e Inmunidad",
+              "path": "/entrenamiento/suplementos/vitaminas-inmunidad/",
+              "entityId": 104
+            }
+          ]
+        },
+        {
+          "name": "Deporte",
+          "path": "/entrenamiento/deporte/",
+          "entityId": 93,
+          "children": [
+            {
+              "name": "Camas Elásticas y Trampolín",
+              "path": "/entrenamiento/deporte/camas-elasticas-y-trampolin/",
+              "entityId": 95
+            },
+            {
+              "name": "Fútbol",
+              "path": "/entrenamiento/deporte/futbol/",
+              "entityId": 96
+            },
+            {
+              "name": "Básquetbol",
+              "path": "/entrenamiento/deporte/basquetbol/",
+              "entityId": 94
+            },
+            {
+              "name": "Juegos",
+              "path": "/entrenamiento/deporte/juegos/",
+              "entityId": 97
+            },
+            {
+              "name": "Mesa Ping Pong",
+              "path": "/entrenamiento/deporte/mesa-ping-pong/",
+              "entityId": 99
+            },
+            {
+              "name": "Stand Up Paddle",
+              "path": "/entrenamiento/deporte/stand-up-paddle/",
+              "entityId": 98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vestuario y Accesorios",
+      "path": "/vestuario-y-accesorios/",
+      "entityId": 108,
+      "children": [
+        {
+          "name": "Relojes Deportivos",
+          "path": "/entrenamiento/vestuario-y-accesorios/tecnologia/relojes-deportivos/",
+          "entityId": 113,
+          "children": []
+        },
+        {
+          "name": "Bandas Cardiacas",
+          "path": "/entrenamiento/vestuario-y-accesorios/tecnologia/bandas-cardiacas/",
+          "entityId": 112,
+          "children": []
+        },
+        {
+          "name": "Calcetines Deportivos",
+          "path": "/entrenamiento/vestuario-y-accesorios/vestuario/calcetines-deportivos/",
+          "entityId": 116,
+          "children": []
+        },
+        {
+          "name": "Jockey/Viseras",
+          "path": "/vestuario-y-accesorios/jockeyviseras/",
+          "entityId": 117,
+          "children": []
+        },
+        {
+          "name": "Ropa",
+          "path": "/entrenamiento/vestuario-y-accesorios/vestuario/ropa/",
+          "entityId": 118,
+          "children": []
+        },
+        {
+          "name": "Muñequeras/Guantes",
+          "path": "/entrenamiento/vestuario-y-accesorios/accesorios/munequeras/",
+          "entityId": 124,
+          "children": []
+        },
+        {
+          "name": "Rodilleras/Coderas",
+          "path": "/vestuario-y-accesorios/rodillerascoderas/",
+          "entityId": 123,
+          "children": []
+        },
+        {
+          "name": "Cinturones",
+          "path": "/vestuario-y-accesorios/cinturones/",
+          "entityId": 155,
+          "children": []
+        },
+        {
+          "name": "Botellas de Hidratación",
+          "path": "/vestuario-y-accesorios/accesorios/botellas-de-hidratacion/",
+          "entityId": 126,
+          "children": []
+        },
+        {
+          "name": "Mochilas y Bananos",
+          "path": "/entrenamiento/vestuario-y-accesorios/accesorios/mochilas-y-bananos/",
+          "entityId": 125,
+          "children": []
+        },
+        {
+          "name": "Tecnología",
+          "path": "/vestuario-y-accesorios/tecnologia/",
+          "entityId": 109,
+          "children": [
+            {
+              "name": "Audífonos",
+              "path": "/entrenamiento/vestuario-y-accesorios/tecnologia/audifonos/",
+              "entityId": 110
+            },
+            {
+              "name": "Balanza Inteligente",
+              "path": "/entrenamiento/vestuario-y-accesorios/tecnologia/balanza-inteligente/",
+              "entityId": 111
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outlet",
+      "path": "/outlet/",
+      "entityId": 159,
+      "children": []
+    }
+  ]
+}

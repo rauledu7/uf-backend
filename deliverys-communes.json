@@ -1,0 +1,2424 @@
+{
+    "ARICA": {
+      "Comunne": "ARICA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CAMARONES": {
+      "Comunne": "CAMARONES",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "GENERAL LAGOS": {
+      "Comunne": "GENERAL LAGOS",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PUTRE": {
+      "Comunne": "PUTRE",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "IQUIQUE": {
+      "Comunne": "IQUIQUE",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ALTO HOSPICIO": {
+      "Comunne": "ALTO HOSPICIO",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CAMINA": {
+      "Comunne": "CAMINA",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COLCHANE": {
+      "Comunne": "COLCHANE",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "HUARA": {
+      "Comunne": "HUARA",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PICA": {
+      "Comunne": "PICA",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "POZO ALMONTE": {
+      "Comunne": "POZO ALMONTE",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ANTOFAGASTA": {
+      "Comunne": "ANTOFAGASTA",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CALAMA": {
+      "Comunne": "CALAMA",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MARIA ELENA": {
+      "Comunne": "MARIA ELENA",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MEJILLONES": {
+      "Comunne": "MEJILLONES",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "OLLAGUE": {
+      "Comunne": "OLLAGUE",
+      "Lead Time": -1,
+      "Delivery Time": -1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN PEDRO DE ATACAMA": {
+      "Comunne": "SAN PEDRO DE ATACAMA",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SIERRA GORDA": {
+      "Comunne": "SIERRA GORDA",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TALTAL": {
+      "Comunne": "TALTAL",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TOCOPILLA": {
+      "Comunne": "TOCOPILLA",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COPIAPO": {
+      "Comunne": "COPIAPO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ALTO DEL CARMEN": {
+      "Comunne": "ALTO DEL CARMEN",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "HUASCO": {
+      "Comunne": "HUASCO",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CALDERA": {
+      "Comunne": "CALDERA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CHANARAL": {
+      "Comunne": "CHANARAL",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "DIEGO DE ALMAGRO": {
+      "Comunne": "DIEGO DE ALMAGRO",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "FREIRINA": {
+      "Comunne": "FREIRINA",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TIERRA AMARILLA": {
+      "Comunne": "TIERRA AMARILLA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "VALLENAR": {
+      "Comunne": "VALLENAR",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COQUIMBO": {
+      "Comunne": "COQUIMBO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ANDACOLLO": {
+      "Comunne": "ANDACOLLO",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CANELA": {
+      "Comunne": "CANELA",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COMBARBALA": {
+      "Comunne": "COMBARBALA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ILLAPEL": {
+      "Comunne": "ILLAPEL",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LA SERENA": {
+      "Comunne": "LA SERENA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LA HIGUERA": {
+      "Comunne": "LA HIGUERA",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LOS VILOS": {
+      "Comunne": "LOS VILOS",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MONTE PATRIA": {
+      "Comunne": "MONTE PATRIA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "OVALLE": {
+      "Comunne": "OVALLE",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PAIHUANO": {
+      "Comunne": "PAIHUANO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PUNITAQUI": {
+      "Comunne": "PUNITAQUI",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "RIO HURTADO": {
+      "Comunne": "RIO HURTADO",
+      "Lead Time": 1,
+      "Delivery Time": 5,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SALAMANCA": {
+      "Comunne": "SALAMANCA",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "VICUNA": {
+      "Comunne": "VICUNA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "VINA DEL MAR": {
+      "Comunne": "VINA DEL MAR",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ALGARROBO": {
+      "Comunne": "ALGARROBO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CABILDO": {
+      "Comunne": "CABILDO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CALLE LARGA": {
+      "Comunne": "CALLE LARGA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CARTAGENA": {
+      "Comunne": "CARTAGENA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CASABLANCA": {
+      "Comunne": "CASABLANCA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CATEMU": {
+      "Comunne": "CATEMU",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CONCON": {
+      "Comunne": "CONCON",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "EL QUISCO": {
+      "Comunne": "EL QUISCO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "EL TABO": {
+      "Comunne": "EL TABO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "HIJUELAS": {
+      "Comunne": "HIJUELAS",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "JUAN FERNANDEZ": {
+      "Comunne": "JUAN FERNANDEZ",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ISLA DE PASCUA": {
+      "Comunne": "ISLA DE PASCUA",
+      "Lead Time": -1,
+      "Delivery Time": -1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CALERA": {
+      "Comunne": "CALERA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LA CRUZ": {
+      "Comunne": "LA CRUZ",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LA LIGUA": {
+      "Comunne": "LA LIGUA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LIMACHE": {
+      "Comunne": "LIMACHE",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LLAY-LLAY": {
+      "Comunne": "LLAY-LLAY",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LOS ANDES": {
+      "Comunne": "LOS ANDES",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "NOGALES": {
+      "Comunne": "NOGALES",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "OLMUE": {
+      "Comunne": "OLMUE",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PANQUEHUE": {
+      "Comunne": "PANQUEHUE",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PAPUDO": {
+      "Comunne": "PAPUDO",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PETORCA": {
+      "Comunne": "PETORCA",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PUCHUNCAVI": {
+      "Comunne": "PUCHUNCAVI",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PUTAENDO": {
+      "Comunne": "PUTAENDO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "QUILLOTA": {
+      "Comunne": "QUILLOTA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "QUILPUE": {
+      "Comunne": "QUILPUE",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "QUINTERO": {
+      "Comunne": "QUINTERO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "RINCONADA": {
+      "Comunne": "RINCONADA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SANTO DOMINGO": {
+      "Comunne": "SANTO DOMINGO",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN ANTONIO": {
+      "Comunne": "SAN ANTONIO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN ESTEBAN": {
+      "Comunne": "SAN ESTEBAN",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN FELIPE": {
+      "Comunne": "SAN FELIPE",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SANTA MARIA": {
+      "Comunne": "SANTA MARIA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "VALPARAISO": {
+      "Comunne": "VALPARAISO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "VILLA ALEMANA": {
+      "Comunne": "VILLA ALEMANA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ZAPALLAR": {
+      "Comunne": "ZAPALLAR",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "RANCAGUA": {
+      "Comunne": "RANCAGUA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CHEPICA": {
+      "Comunne": "CHEPICA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CHIMBARONGO": {
+      "Comunne": "CHIMBARONGO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CODEGUA": {
+      "Comunne": "CODEGUA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COINCO": {
+      "Comunne": "COINCO",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COLTAUCO": {
+      "Comunne": "COLTAUCO",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "DONIHUE": {
+      "Comunne": "DONIHUE",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "GRANEROS": {
+      "Comunne": "GRANEROS",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LA ESTRELLA": {
+      "Comunne": "LA ESTRELLA",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LAS CABRAS": {
+      "Comunne": "LAS CABRAS",
+      "Lead Time": 1,
+      "Delivery Time": 5,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LITUECHE": {
+      "Comunne": "LITUECHE",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LOLOL": {
+      "Comunne": "LOLOL",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MACHALI": {
+      "Comunne": "MACHALI",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MALLOA": {
+      "Comunne": "MALLOA",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MARCHIGÜE": {
+      "Comunne": "MARCHIGÜE",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "NANCAGUA": {
+      "Comunne": "NANCAGUA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "NAVIDAD": {
+      "Comunne": "NAVIDAD",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "OLIVAR": {
+      "Comunne": "OLIVAR",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PALMILLA": {
+      "Comunne": "PALMILLA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PAREDONES": {
+      "Comunne": "PAREDONES",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PEUMO": {
+      "Comunne": "PEUMO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PICHIDEGUA": {
+      "Comunne": "PICHIDEGUA",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PICHILEMU": {
+      "Comunne": "PICHILEMU",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PERALILLO": {
+      "Comunne": "PERALILLO",
+      "Lead Time": 1,
+      "Delivery Time": 5,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PLACILLA": {
+      "Comunne": "PLACILLA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PUMANQUE": {
+      "Comunne": "PUMANQUE",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "QUINTA DE TILCOCO": {
+      "Comunne": "QUINTA DE TILCOCO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "REQUINOA": {
+      "Comunne": "REQUINOA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "RENGO": {
+      "Comunne": "RENGO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN FERNANDO": {
+      "Comunne": "SAN FERNANDO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN VICENTE DE TAGUA TAGUA": {
+      "Comunne": "SAN VICENTE DE TAGUA TAGUA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SANTA CRUZ": {
+      "Comunne": "SANTA CRUZ",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MOSTAZAL": {
+      "Comunne": "MOSTAZAL",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CURICO": {
+      "Comunne": "CURICO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TALCA": {
+      "Comunne": "TALCA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CAUQUENES": {
+      "Comunne": "CAUQUENES",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CHANCO": {
+      "Comunne": "CHANCO",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COLBUN": {
+      "Comunne": "COLBUN",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CONSTITUCION": {
+      "Comunne": "CONSTITUCION",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CUREPTO": {
+      "Comunne": "CUREPTO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "EMPEDRADO": {
+      "Comunne": "EMPEDRADO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "HUALANE": {
+      "Comunne": "HUALANE",
+      "Lead Time": 1,
+      "Delivery Time": 5,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LICANTEN": {
+      "Comunne": "LICANTEN",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LINARES": {
+      "Comunne": "LINARES",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LONGAVI": {
+      "Comunne": "LONGAVI",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MAULE": {
+      "Comunne": "MAULE",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MOLINA": {
+      "Comunne": "MOLINA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PARRAL": {
+      "Comunne": "PARRAL",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PELARCO": {
+      "Comunne": "PELARCO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PELLUHUE": {
+      "Comunne": "PELLUHUE",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PENCAHUE": {
+      "Comunne": "PENCAHUE",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "RAUCO": {
+      "Comunne": "RAUCO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "RIO CLARO": {
+      "Comunne": "RIO CLARO",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "RETIRO": {
+      "Comunne": "RETIRO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ROMERAL": {
+      "Comunne": "ROMERAL",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAGRADA FAMILIA": {
+      "Comunne": "SAGRADA FAMILIA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN CLEMENTE": {
+      "Comunne": "SAN CLEMENTE",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN JAVIER": {
+      "Comunne": "SAN JAVIER",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN RAFAEL": {
+      "Comunne": "SAN RAFAEL",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TENO": {
+      "Comunne": "TENO",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "VICHUQUEN": {
+      "Comunne": "VICHUQUEN",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "VILLA ALEGRE": {
+      "Comunne": "VILLA ALEGRE",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "YERBAS BUENAS": {
+      "Comunne": "YERBAS BUENAS",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CHILLAN": {
+      "Comunne": "CHILLAN",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CHILLAN VIEJO": {
+      "Comunne": "CHILLAN VIEJO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LOS ANGELES": {
+      "Comunne": "LOS ANGELES",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CONCEPCION": {
+      "Comunne": "CONCEPCION",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ALTO BIOBIO": {
+      "Comunne": "ALTO BIOBIO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ANTUCO": {
+      "Comunne": "ANTUCO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ARAUCO": {
+      "Comunne": "ARAUCO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "BULNES": {
+      "Comunne": "BULNES",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CABRERO": {
+      "Comunne": "CABRERO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CANETE": {
+      "Comunne": "CANETE",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CHIGUAYANTE": {
+      "Comunne": "CHIGUAYANTE",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COBQUECURA": {
+      "Comunne": "COBQUECURA",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COELEMU": {
+      "Comunne": "COELEMU",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COIHUECO": {
+      "Comunne": "COIHUECO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CONTULMO": {
+      "Comunne": "CONTULMO",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CORONEL": {
+      "Comunne": "CORONEL",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CURANILAHUE": {
+      "Comunne": "CURANILAHUE",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "EL CARMEN": {
+      "Comunne": "EL CARMEN",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "FLORIDA": {
+      "Comunne": "FLORIDA",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "HUALPEN": {
+      "Comunne": "HUALPEN",
+      "Lead Time": -1,
+      "Delivery Time": -1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "HUALQUI": {
+      "Comunne": "HUALQUI",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LAJA": {
+      "Comunne": "LAJA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN ROSENDO": {
+      "Comunne": "SAN ROSENDO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LEBU": {
+      "Comunne": "LEBU",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LOS ALAMOS": {
+      "Comunne": "LOS ALAMOS",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LOTA": {
+      "Comunne": "LOTA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MULCHEN": {
+      "Comunne": "MULCHEN",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "NACIMIENTO": {
+      "Comunne": "NACIMIENTO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "NEGRETE": {
+      "Comunne": "NEGRETE",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "NINHUE": {
+      "Comunne": "NINHUE",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "NIQUEN": {
+      "Comunne": "NIQUEN",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PEMUCO": {
+      "Comunne": "PEMUCO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PENCO": {
+      "Comunne": "PENCO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PINTO": {
+      "Comunne": "PINTO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PORTEZUELO": {
+      "Comunne": "PORTEZUELO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "QUILACO": {
+      "Comunne": "QUILACO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "QUILLECO": {
+      "Comunne": "QUILLECO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "QUILLON": {
+      "Comunne": "QUILLON",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "QUIRIHUE": {
+      "Comunne": "QUIRIHUE",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "RANQUIL": {
+      "Comunne": "RANQUIL",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN CARLOS": {
+      "Comunne": "SAN CARLOS",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN FABIAN": {
+      "Comunne": "SAN FABIAN",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN IGNACIO": {
+      "Comunne": "SAN IGNACIO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN NICOLAS": {
+      "Comunne": "SAN NICOLAS",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN PEDRO DE LA PAZ": {
+      "Comunne": "SAN PEDRO DE LA PAZ",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SANTA BARBARA": {
+      "Comunne": "SANTA BARBARA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SANTA JUANA": {
+      "Comunne": "SANTA JUANA",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TALCAHUANO": {
+      "Comunne": "TALCAHUANO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TOME": {
+      "Comunne": "TOME",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TREGUACO": {
+      "Comunne": "TREGUACO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TUCAPEL": {
+      "Comunne": "TUCAPEL",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "YUNGAY": {
+      "Comunne": "YUNGAY",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "YUMBEL": {
+      "Comunne": "YUMBEL",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TEMUCO": {
+      "Comunne": "TEMUCO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ANGOL": {
+      "Comunne": "ANGOL",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CARAHUE": {
+      "Comunne": "CARAHUE",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CHOLCHOL": {
+      "Comunne": "CHOLCHOL",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COLLIPULLI": {
+      "Comunne": "COLLIPULLI",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CUNCO": {
+      "Comunne": "CUNCO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CURACAUTIN": {
+      "Comunne": "CURACAUTIN",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CURARREHUE": {
+      "Comunne": "CURARREHUE",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ERCILLA": {
+      "Comunne": "ERCILLA",
+      "Lead Time": -1,
+      "Delivery Time": -1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "FREIRE": {
+      "Comunne": "FREIRE",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "GALVARINO": {
+      "Comunne": "GALVARINO",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "GORBEA": {
+      "Comunne": "GORBEA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LAUTARO": {
+      "Comunne": "LAUTARO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LONCOCHE": {
+      "Comunne": "LONCOCHE",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LONQUIMAY": {
+      "Comunne": "LONQUIMAY",
+      "Lead Time": -1,
+      "Delivery Time": -1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LOS SAUCES": {
+      "Comunne": "LOS SAUCES",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MELIPEUCO": {
+      "Comunne": "MELIPEUCO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "NUEVA IMPERIAL": {
+      "Comunne": "NUEVA IMPERIAL",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PADRE LAS CASAS": {
+      "Comunne": "PADRE LAS CASAS",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PERQUENCO": {
+      "Comunne": "PERQUENCO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PITRUFQUEN": {
+      "Comunne": "PITRUFQUEN",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PUCON": {
+      "Comunne": "PUCON",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAAVEDRA": {
+      "Comunne": "SAAVEDRA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PUREN": {
+      "Comunne": "PUREN",
+      "Lead Time": 1,
+      "Delivery Time": 4,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "RENAICO": {
+      "Comunne": "RENAICO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TEODORO SCHMIDT": {
+      "Comunne": "TEODORO SCHMIDT",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TOLTEN": {
+      "Comunne": "TOLTEN",
+      "Lead Time": 1,
+      "Delivery Time": 5,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TRAIGUEN": {
+      "Comunne": "TRAIGUEN",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LUMACO": {
+      "Comunne": "LUMACO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TIRUA": {
+      "Comunne": "TIRUA",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "VICTORIA": {
+      "Comunne": "VICTORIA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "VILCUN": {
+      "Comunne": "VILCUN",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "VILLARRICA": {
+      "Comunne": "VILLARRICA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "VALDIVIA": {
+      "Comunne": "VALDIVIA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CORRAL": {
+      "Comunne": "CORRAL",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "FUTRONO": {
+      "Comunne": "FUTRONO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LA UNION": {
+      "Comunne": "LA UNION",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LAGO RANCO": {
+      "Comunne": "LAGO RANCO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LANCO": {
+      "Comunne": "LANCO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LOS LAGOS": {
+      "Comunne": "LOS LAGOS",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MAFIL": {
+      "Comunne": "MAFIL",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PAILLACO": {
+      "Comunne": "PAILLACO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PANGUIPULLI": {
+      "Comunne": "PANGUIPULLI",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "RIO BUENO": {
+      "Comunne": "RIO BUENO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MARIQUINA": {
+      "Comunne": "MARIQUINA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "OSORNO": {
+      "Comunne": "OSORNO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PUERTO MONTT": {
+      "Comunne": "PUERTO MONTT",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CHAITEN": {
+      "Comunne": "CHAITEN",
+      "Lead Time": 1,
+      "Delivery Time": 12,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COCHAMO": {
+      "Comunne": "COCHAMO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "FUTALEUFU": {
+      "Comunne": "FUTALEUFU",
+      "Lead Time": 1,
+      "Delivery Time": 12,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "HUALAIHUE": {
+      "Comunne": "HUALAIHUE",
+      "Lead Time": 1,
+      "Delivery Time": 12,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PALENA": {
+      "Comunne": "PALENA",
+      "Lead Time": 1,
+      "Delivery Time": 12,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN JUAN DE LA COSTA": {
+      "Comunne": "SAN JUAN DE LA COSTA",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ANCUD": {
+      "Comunne": "ANCUD",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CALBUCO": {
+      "Comunne": "CALBUCO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CASTRO": {
+      "Comunne": "CASTRO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "QUEILEN": {
+      "Comunne": "QUEILEN",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PUQUELDON": {
+      "Comunne": "PUQUELDON",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CURACO DE VELEZ": {
+      "Comunne": "CURACO DE VELEZ",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "QUEMCHI": {
+      "Comunne": "QUEMCHI",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "QUINCHAO": {
+      "Comunne": "QUINCHAO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CHONCHI": {
+      "Comunne": "CHONCHI",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "DALCAHUE": {
+      "Comunne": "DALCAHUE",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "FRESIA": {
+      "Comunne": "FRESIA",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "FRUTILLAR": {
+      "Comunne": "FRUTILLAR",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LLANQUIHUE": {
+      "Comunne": "LLANQUIHUE",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LOS MUERMOS": {
+      "Comunne": "LOS MUERMOS",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MAULLIN": {
+      "Comunne": "MAULLIN",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PUERTO OCTAY": {
+      "Comunne": "PUERTO OCTAY",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PUYEHUE": {
+      "Comunne": "PUYEHUE",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PUERTO VARAS": {
+      "Comunne": "PUERTO VARAS",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PURRANQUE": {
+      "Comunne": "PURRANQUE",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "QUELLON": {
+      "Comunne": "QUELLON",
+      "Lead Time": 1,
+      "Delivery Time": 5,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "RIO NEGRO": {
+      "Comunne": "RIO NEGRO",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN PABLO": {
+      "Comunne": "SAN PABLO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COYHAIQUE": {
+      "Comunne": "COYHAIQUE",
+      "Lead Time": 1,
+      "Delivery Time": 10,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CHILE CHICO": {
+      "Comunne": "CHILE CHICO",
+      "Lead Time": 1,
+      "Delivery Time": 15,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CISNES": {
+      "Comunne": "CISNES",
+      "Lead Time": 1,
+      "Delivery Time": 15,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LAGO VERDE": {
+      "Comunne": "LAGO VERDE",
+      "Lead Time": 1,
+      "Delivery Time": 17,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "GUAITECAS": {
+      "Comunne": "GUAITECAS",
+      "Lead Time": 1,
+      "Delivery Time": 15,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "O'HIGGINS": {
+      "Comunne": "O'HIGGINS",
+      "Lead Time": 1,
+      "Delivery Time": 19,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TORTEL": {
+      "Comunne": "TORTEL",
+      "Lead Time": 1,
+      "Delivery Time": 15,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COCHRANE": {
+      "Comunne": "COCHRANE",
+      "Lead Time": 1,
+      "Delivery Time": 15,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "AYSEN": {
+      "Comunne": "AYSEN",
+      "Lead Time": 1,
+      "Delivery Time": 13,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "RIO IBANEZ": {
+      "Comunne": "RIO IBANEZ",
+      "Lead Time": 1,
+      "Delivery Time": 15,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PUNTA ARENAS": {
+      "Comunne": "PUNTA ARENAS",
+      "Lead Time": 1,
+      "Delivery Time": 10,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LAGUNA BLANCA": {
+      "Comunne": "LAGUNA BLANCA",
+      "Lead Time": 1,
+      "Delivery Time": 19,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PORVENIR": {
+      "Comunne": "PORVENIR",
+      "Lead Time": 1,
+      "Delivery Time": 19,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PRIMAVERA": {
+      "Comunne": "PRIMAVERA",
+      "Lead Time": 1,
+      "Delivery Time": 19,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "RIO VERDE": {
+      "Comunne": "RIO VERDE",
+      "Lead Time": 1,
+      "Delivery Time": 19,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN GREGORIO": {
+      "Comunne": "SAN GREGORIO",
+      "Lead Time": 1,
+      "Delivery Time": 7,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TIMAUKEL": {
+      "Comunne": "TIMAUKEL",
+      "Lead Time": -1,
+      "Delivery Time": -1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CABO DE HORNOS": {
+      "Comunne": "CABO DE HORNOS",
+      "Lead Time": -1,
+      "Delivery Time": -1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TORRES DEL PAINE": {
+      "Comunne": "TORRES DEL PAINE",
+      "Lead Time": 1,
+      "Delivery Time": 19,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "NATALES": {
+      "Comunne": "NATALES",
+      "Lead Time": 1,
+      "Delivery Time": 15,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ANTARTICA": {
+      "Comunne": "ANTARTICA",
+      "Lead Time": -1,
+      "Delivery Time": -1,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SANTIAGO": {
+      "Comunne": "SANTIAGO",
+      "Lead Time": 1,
+      "Delivery Time":1 ,
+      "Express Lead Times": true,
+      "Express Delivery Times":true
+    },
+    "RECOLETA": {
+      "Comunne": "RECOLETA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "INDEPENDENCIA": {
+      "Comunne": "INDEPENDENCIA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "QUINTA NORMAL": {
+      "Comunne": "QUINTA NORMAL",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "MAIPU": {
+      "Comunne": "MAIPU",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "PUDAHUEL": {
+      "Comunne": "PUDAHUEL",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "RENCA": {
+      "Comunne": "RENCA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "QUILICURA": {
+      "Comunne": "QUILICURA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "CONCHALI": {
+      "Comunne": "CONCHALI",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "LO PRADO": {
+      "Comunne": "LO PRADO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "CERRO NAVIA": {
+      "Comunne": "CERRO NAVIA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "ESTACION CENTRAL": {
+      "Comunne": "ESTACION CENTRAL",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "HUECHURABA": {
+      "Comunne": "HUECHURABA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "CERRILLOS": {
+      "Comunne": "CERRILLOS",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "SAN PEDRO": {
+      "Comunne": "SAN PEDRO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "PROVIDENCIA": {
+      "Comunne": "PROVIDENCIA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "NUNOA": {
+      "Comunne": "NUNOA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "LAS CONDES": {
+      "Comunne": "LAS CONDES",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "LA FLORIDA": {
+      "Comunne": "LA FLORIDA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "LA REINA": {
+      "Comunne": "LA REINA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "MACUL": {
+      "Comunne": "MACUL",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "PENALOLEN": {
+      "Comunne": "PENALOLEN",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "VITACURA": {
+      "Comunne": "VITACURA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "LO BARNECHEA": {
+      "Comunne": "LO BARNECHEA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "SAN MIGUEL": {
+      "Comunne": "SAN MIGUEL",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "LA CISTERNA": {
+      "Comunne": "LA CISTERNA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "LA GRANJA": {
+      "Comunne": "LA GRANJA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "SAN RAMON": {
+      "Comunne": "SAN RAMON",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "LA PINTANA": {
+      "Comunne": "LA PINTANA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "PEDRO AGUIRRE CERDA": {
+      "Comunne": "PEDRO AGUIRRE CERDA",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "SAN JOAQUIN": {
+      "Comunne": "SAN JOAQUIN",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "LO ESPEJO": {
+      "Comunne": "LO ESPEJO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "EL BOSQUE": {
+      "Comunne": "EL BOSQUE",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "PUENTE ALTO": {
+      "Comunne": "PUENTE ALTO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "SAN BERNARDO": {
+      "Comunne": "SAN BERNARDO",
+      "Lead Time": 1,
+      "Delivery Time": 1,
+      "Express Lead Times": true,
+      "Express Delivery Times": true
+    },
+    "ALHUE": {
+      "Comunne": "ALHUE",
+      "Lead Time": 1,
+      "Delivery Time": 3,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "BUIN": {
+      "Comunne": "BUIN",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CALERA DE TANGO": {
+      "Comunne": "CALERA DE TANGO",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "COLINA": {
+      "Comunne": "COLINA",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "CURACAVI": {
+      "Comunne": "CURACAVI",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "EL MONTE": {
+      "Comunne": "EL MONTE",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "ISLA DE MAIPO": {
+      "Comunne": "ISLA DE MAIPO",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "LAMPA": {
+      "Comunne": "LAMPA",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MARIA PINTO": {
+      "Comunne": "MARIA PINTO",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "MELIPILLA": {
+      "Comunne": "MELIPILLA",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PADRE HURTADO": {
+      "Comunne": "PADRE HURTADO",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PAINE": {
+      "Comunne": "PAINE",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PENAFLOR": {
+      "Comunne": "PENAFLOR",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "PIRQUE": {
+      "Comunne": "PIRQUE",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "SAN JOSE DE MAIPO": {
+      "Comunne": "SAN JOSE DE MAIPO",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TALAGANTE": {
+      "Comunne": "TALAGANTE",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    },
+    "TILTIL": {
+      "Comunne": "TIL TIL",
+      "Lead Time": 1,
+      "Delivery Time": 2,
+      "Express Lead Times": false,
+      "Express Delivery Times": false
+    }
+  }
